@@ -98,10 +98,9 @@ Research surrounding EV infrastructure expansion has highlighted the growing imp
 ```id="2ecjhg"
 WA-EV-Infrastructure-Analysis/
 │
-├── notebook.ipynb
-├── data/
-├── visuals/
 ├── README.md
+├── WA EV Infrastructure Analysis.ipynb
+├── datasets (see repo)
 ```
 
 ---
