@@ -76,7 +76,8 @@ The project follows a standard data analysis workflow:
 * Certain areas may demonstrate infrastructure gaps relative to adoption trends.
 * Geographic analysis highlights the importance of long-term infrastructure planning to support continued EV growth.
 
-*(See notebook outputs and visualizations for detailed findings.)*
+Of the 5 counties in Washington with the highest EV-to-charging station ratios, Snohomish, Pierce, and Clark counties have substantially higher EV populations than the others; this might indicate a greater overall need for added EV charging infrastructure within these regions.
+![png](final_visual.png)
 
 ---
 
